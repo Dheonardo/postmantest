@@ -9,7 +9,12 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Dheonardo",
+    "copyright": "typicode",
+    "another": [
+      { "id": 1, "line": "one" },
+      { "id": 2, "line": "two" }
+    ]
   }
 }
 
